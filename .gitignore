@@ -1,0 +1,28 @@
+# Visual Studio Code settings
+.vscode/
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+tmp/
+temp/
+
+# Python cache files (if using Python)
+__pycache__/
+*.py[cod]
+
+# Environment variables file
+.env
+.Renviron
